@@ -1,0 +1,7 @@
+---
+published: true
+title: Título
+layout: post
+---
+Texto.
+Contenido.
